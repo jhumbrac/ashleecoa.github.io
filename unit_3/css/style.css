@@ -6,9 +6,9 @@
 }
 
 img	{
-	background-image: url(citylights.jpeg);
+	background: url(citylights.jpeg);
 	background-size: cover;
-	background-color: white
+	background-color: white;
 }
 
 body {
