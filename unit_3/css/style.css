@@ -1,0 +1,10 @@
+h1 {
+	color: #FFC223;
+	font-family: Verdana, sans-serif;
+}
+body {
+	text-align: center;
+	background-image: url(citylights.jpg);
+	background-size: cover;
+	background-color: #FFFFFF
+}
