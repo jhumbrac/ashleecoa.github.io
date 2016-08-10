@@ -5,13 +5,10 @@
 	font-size: 100;
 }
 
-img	{
-	background: url(citylights.jpeg);
-	background-size: cover;
-	background-color: white;
-}
-
 body {
 	text-align: center;
 	color: #FFC223;
+	background: url(cityscapewithlights.jpeg);
+	background-size: cover;
+	background-color: white;
 }
