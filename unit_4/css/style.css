@@ -1,10 +1,10 @@
-* { margin:0; padding:0; box-sizing:border-box; }
 @import url(https://fonts.googleapis.com/css?family=Bungee);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+* { margin:0; padding:0; box-sizing:border-box; }
 
 body {
 	text-align: center;
-	color: #222;
+	color: #0074FF;
 	background-color: white;
 	font-size: 16px;
 }
@@ -33,7 +33,7 @@ ul {
 	padding:15em 0;
 }
 #slogan {
-	color: #FFC223;
+	color: #0074FF;
 	text-align: center;
 	font-family: Verdana, sans-serif;
 	font-size: 100;
