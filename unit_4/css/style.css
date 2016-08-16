@@ -1,0 +1,47 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+@import url(https://fonts.googleapis.com/css?family=Bungee);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+body {
+	text-align: center;
+	color: #222;
+	background-color: white;
+	font-size: 16px;
+}
+section {
+	padding:5em 0;
+}
+ul {
+	padding-left:1.25em;
+}
+.cta {
+	background: #0286be;
+	/* border:2px solid; */
+	color:#fff;
+	display:inline-block;
+	font-size: 1.5em;
+	margin: 1em .5em 0;
+	padding: 1em 2em;
+	text-decoration:none;
+}
+#splash {
+	background: url(../images/cityscapewithlights.jpeg);
+	background-size: cover;
+	background-repeat:no-repeat;
+	color: #FFC223;
+	height: 95vh;
+	padding:15em 0;
+}
+#slogan {
+	color: #FFC223;
+	text-align: center;
+	font-family: Verdana, sans-serif;
+	font-size: 100;
+}
+p {
+	font-family: 'Slabo 27px', serif;
+}
+
+h1 {
+	font-family: 'Bungee', cursive;
+}
