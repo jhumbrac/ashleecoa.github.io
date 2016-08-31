@@ -83,6 +83,7 @@ nav {
 	font-family: 'Roboto Slab', serif;
 	color: #FFC223;
 	font-size: .75em;
+	float: right;
 }
 section {
 	padding:5em 5em;
@@ -103,4 +104,5 @@ h2 {
 footer {
 	text-align: center;
 	padding: .5em;
+	clear: both;
 }
